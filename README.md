@@ -24,3 +24,5 @@ Welcome to the EV-Website Header repository! This project showcases a website he
  
 ## Acknowledgements ##
 Special thanks to [@GreatStackDev](https://www.youtube.com/@GreatStackDev) for the inspiring and guiding us through the development process on their YouTube channel.
+
+If you have any questions or suggestions, please open an issue or submit a pull request. Happy coding!
